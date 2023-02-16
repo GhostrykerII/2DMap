@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -708164254, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -695342906, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -937247471, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1604768517, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -2008780394, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1024006218, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1549229589, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -478385133, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 898275796, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1271729710, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1775987945, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1110336674, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 133615333, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1294146779, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 2063952161, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -968665518, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1246410997, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1582985091, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1642825070, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1052693359, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1259629896, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 609745877, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1421408278, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 936915374, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 2034233421, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 236759586, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 882252270, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 763143370, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -585475664, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1030990585, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1150293990, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 1633415209, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 903169598, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: -1087505357, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  - {fileID: 303406467, guid: dac0ba245819d5f499de2fcf4a007997, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TransitionTerrainTiles_33
+  - TransitionTerrainTiles_30
+  - TransitionTerrainTiles_31
+  - TransitionTerrainTiles_21
+  - TransitionTerrainTiles_20
+  - TransitionTerrainTiles_23
+  - TransitionTerrainTiles_22
+  - TransitionTerrainTiles_25
+  - TransitionTerrainTiles_24
+  - TransitionTerrainTiles_27
+  - TransitionTerrainTiles_26
+  - TransitionTerrainTiles_29
+  - TransitionTerrainTiles_28
+  - TransitionTerrainTiles_9
+  - TransitionTerrainTiles_8
+  - TransitionTerrainTiles_1
+  - TransitionTerrainTiles_0
+  - TransitionTerrainTiles_3
+  - TransitionTerrainTiles_2
+  - TransitionTerrainTiles_5
+  - TransitionTerrainTiles_4
+  - TransitionTerrainTiles_7
+  - TransitionTerrainTiles_6
+  - TransitionTerrainTiles_18
+  - TransitionTerrainTiles_19
+  - TransitionTerrainTiles_10
+  - TransitionTerrainTiles_11
+  - TransitionTerrainTiles_12
+  - TransitionTerrainTiles_13
+  - TransitionTerrainTiles_14
+  - TransitionTerrainTiles_15
+  - TransitionTerrainTiles_16
+  - TransitionTerrainTiles_17
+  - TransitionTerrainTiles_34
+  - TransitionTerrainTiles_32
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
